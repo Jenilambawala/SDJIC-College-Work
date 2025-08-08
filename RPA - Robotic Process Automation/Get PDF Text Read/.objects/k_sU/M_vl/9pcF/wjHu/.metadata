@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Admission No.",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wjHuAYBlV0CHav0ER_X8tw",
+  "Reference": "Tpe4c2-GUkGeXqopvClKuQ/wjHuAYBlV0CHav0ER_X8tw",
+  "ParentRef": "Tpe4c2-GUkGeXqopvClKuQ/9pcFc2uoS02PN5Qju09E6w",
+  "Created": "2025-08-08T07:03:22.1738795Z",
+  "Updated": "2025-08-08T07:03:22.1738795Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

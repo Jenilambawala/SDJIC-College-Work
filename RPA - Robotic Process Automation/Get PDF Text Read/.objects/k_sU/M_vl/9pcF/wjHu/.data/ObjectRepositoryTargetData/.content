@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zvmq73sID0KGTtmH1TZl9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="21348a0c-cbbb-425d-a261-2e70389e8126" CvType="AnyWordGroup" DesignTimeRectangle="743, 458, 133, 21" ElementType="Text" Guid="08ffaf31-2898-41b9-9e32-0830747e508c" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='FeesReceipt.pdf - Adobe Acrobat Reader DC (64-bit)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="21348a0c-cbbb-425d-a261-2e70389e8126" CvTextArea="542, 458, 195, 22" CvTextArgument="Admission No.:" CvType="Text" DesignTimeRectangle="542, 458, 195, 22" ElementType="Text" Guid="75ac9a99-57a4-4b72-98c8-f524ad2a1df5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="461cbad1a1ab4da2d24e3c69a1e435e6.png" xmlns="">00BQlVF5C40yO3KSISmW6cA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "FeesReceipt.pdf - Adobe Acrobat Reader DC (64-bit)",
+  "Type": "App",
+  "Id": "k_sURLa-50iBQsJdvSIPEg",
+  "Reference": "Tpe4c2-GUkGeXqopvClKuQ/k_sURLa-50iBQsJdvSIPEg",
+  "Created": "2025-08-08T07:01:39.6605648Z",
+  "Updated": "2025-08-08T07:01:39.6605648Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
