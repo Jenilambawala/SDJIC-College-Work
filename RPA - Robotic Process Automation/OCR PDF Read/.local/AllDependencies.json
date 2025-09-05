@@ -19506,9 +19506,9 @@
     "restore": {
       "projectUniqueName": "OCR PDF Read",
       "projectName": "OCR PDF Read",
-      "projectPath": "E:\\SDJIC\\SDJIC-College-Work\\Robotic-Process-Automation\\OCR PDF Read\\.local",
+      "projectPath": "E:\\SDJIC\\SDJIC-College-Work\\RPA - Robotic Process Automation\\OCR PDF Read\\.local",
       "packagesPath": "C:\\Users\\Jenil Ambawala\\.nuget\\packages\\",
-      "outputPath": "E:\\SDJIC\\SDJIC-College-Work\\Robotic-Process-Automation\\OCR PDF Read\\.local",
+      "outputPath": "E:\\SDJIC\\SDJIC-College-Work\\RPA - Robotic Process Automation\\OCR PDF Read\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"

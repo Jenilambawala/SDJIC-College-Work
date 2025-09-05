@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ngnLwdmV3E-Piuhn1koPFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1042" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJiSURBVDhPlZPfT5JRGMf589q67Ka75mxdVuaqiSiwEg2HhdGaLZMsf1uacqGthNZATBJCQRMQ+fW+wAu8/BAIJL8952y0GXjRxXfP2XnP83nO8z3PqzgpyCjK0v8pn0GjVoHb5YRCEqMQY6G/EmJBJONHkCWBH85nkkgljpEWIsjRXjadQCYZRaUoQaPuhSKbilNCiIsBJDFCisLzzQaHdRV+zyby2SQiQR/cWxvY/+FEjiAn+TT0QwNNwBFXKhEmegxOm4Unhw48mH/9GKahbnyyTMPr+oLtr2vYpXhaLcIwPHgewNZ+quDYWAFwxpPGR9VYfGNEcN9De+B7DusHnNUrrYC0cEwxjL0dOyZMWqi7riIc2KV+ZbjsHzEzPozlmefkTwLVUq4VwFQtF3mVO52XKE7h0Pedt7MyN4ZNaq2QS3GV5FQrIENr5sMj1XXMTRioiwaEaIBXZgAhEuAms1dgJrYAJDKQmWgcuAXzMy1fv3v7FHdvXMb7KRMO91w8+UIAe0b2zix6tqywLLxE780rWJ1/wf1hM8Fv2g4g0gDJksiH5einF3tuB3Q9HZh9ZcBprcpngYHbAsRokIxJU79BrC2ZseP8jLERJW9Fzoi8cjO5LYApGvJjcdIIn9sO2/oCRnW3EQ8foFTI8Ns1k1sAbOYbtTLWl83kth4HXieWpk3Ucxj1aokOR6hA7JyKWRH1Sh5PRvRQNGgky1QlHvbzEQ34tvGrnEetUiRP4nR9AYV/VC5I+F0r0b/wEIrZ6Unc6+6Cpl+FQZ0OD7Rq9Kl6oFLev1D99F3Tp0RnxzX8AQorZ6Zalrp4AAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='Dummy Text Generator - Free, For Web Designers - Latin Text, Filler Text &amp;amp; Placeholder Text' /&gt;" Url="https://www.dummytextgenerator.com/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="58c555927976335cb539b940464cb2ee.jpg" xmlns="">0Q0nK1vcLFU2y95t_zmMVLg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

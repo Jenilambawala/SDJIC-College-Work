@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Dummy Text Generator - Free, For Web D(1)",
+  "Type": "Screen",
+  "Id": "_JQAVnJ_Dk-7QeI_vyVmbw",
+  "Reference": "QCEAkkMQg02Lq-Dg7GRtoQ/_JQAVnJ_Dk-7QeI_vyVmbw",
+  "ParentRef": "QCEAkkMQg02Lq-Dg7GRtoQ/Npr3vmqar02xgeNpCsmhmg",
+  "Created": "2025-09-03T16:40:53.6047489Z",
+  "Updated": "2025-09-03T16:40:53.6047489Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

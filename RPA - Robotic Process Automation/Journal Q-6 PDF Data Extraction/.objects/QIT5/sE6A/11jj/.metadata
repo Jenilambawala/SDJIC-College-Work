@@ -1,0 +1,13 @@
+﻿{
+  "Name": "feesr.pdf - Adobe Acrobat Reader (64-bit)",
+  "Type": "Screen",
+  "Id": "11jjK1FJDU2eQxO85kLaFw",
+  "Reference": "-FgzK5atJUCpGd895mGqfA/11jjK1FJDU2eQxO85kLaFw",
+  "ParentRef": "-FgzK5atJUCpGd895mGqfA/sE6AS10jYk2taMvofXzYpw",
+  "Created": "2025-09-04T13:41:22.3811879Z",
+  "Updated": "2025-09-04T13:41:22.3811879Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

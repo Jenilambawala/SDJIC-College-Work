@@ -10129,9 +10129,9 @@
     "restore": {
       "projectUniqueName": "PDF Text Read",
       "projectName": "PDF Text Read",
-      "projectPath": "E:\\SDJIC\\SDJIC-College-Work\\Robotic-Process-Automation\\PDF Text Read\\.local",
+      "projectPath": "E:\\SDJIC\\SDJIC-College-Work\\RPA - Robotic Process Automation\\PDF Text Read\\.local",
       "packagesPath": "C:\\Users\\Jenil Ambawala\\.nuget\\packages\\",
-      "outputPath": "E:\\SDJIC\\SDJIC-College-Work\\Robotic-Process-Automation\\PDF Text Read\\.local",
+      "outputPath": "E:\\SDJIC\\SDJIC-College-Work\\RPA - Robotic Process Automation\\PDF Text Read\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
